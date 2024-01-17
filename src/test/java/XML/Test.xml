@@ -1,12 +1,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="mySuite" parallel="tests" thread-count="1">
+<suite name="mySuite"  thread-count="1">
 
     <test name="myTest1">
         <parameter name="browserType" value="chrome"> </parameter>
 
         <classes>
-            <class name="Runners.TestRunnerCrossBrowser"> </class>
+            <class name="Runners.TestRunner"> </class>
         </classes>
 
     </test>
