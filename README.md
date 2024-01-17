@@ -51,4 +51,4 @@ Bu proje, Java programlama dili, Cucumber, TestNG, Selenium kütüphaneleri baş
 
 ## İletişim
 
-Ek bilgi veya sorularınız için lütfen [iletişime geçin](emrahguney1993@gmail.com).
+Ek bilgi veya sorularınız için lütfen "emrahguney1993@gmail.com" adresine mail atınız
